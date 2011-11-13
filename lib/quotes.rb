@@ -86,7 +86,6 @@ class Quotes
   #  end    
   #end
   
-  #@quotes = @quotes(@line)
   #@quotes = all_quotes(@file) unless @quotes
 end
 
